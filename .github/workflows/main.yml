@@ -54,4 +54,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: aoorlova/yamdb:v.1:latest
+          tags: aoorlova/yamdb:latest
